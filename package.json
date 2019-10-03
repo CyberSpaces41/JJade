@@ -1,0 +1,15 @@
+{
+  "name": "anox",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "salih",
+  "license": "ISC",
+  "dependencies": {
+    "chalk.js": "0.0.5",
+    "discord.js": "^11.5.1"
+  }
+}
